@@ -137,7 +137,7 @@ log10：底为10的log
 
 log2：底为2的log
 
-log1p：底为e的log
+log1p：底为e的log(x + 1)
 
 
 
